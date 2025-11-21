@@ -23,9 +23,9 @@ Este desarrollo aborda un caso realista y contextualizado de gestión de persona
 ┃ ┣ 📂 resources/
 ┃ ┃ ┣ 📊 Empleados.xlsx		#Archivo Excel con los datos de empleados
 ┣ 📂 target/
-┃ ┃ ┣ 📦 salmonera-1.0-SNAPSHOT-jar-with-dependencies.jar 
+┃ ┃ ┣ 📦 salmonera-1.0-SNAPSHOT-jar-with-dependencies.jar	# Archivo ejecutable generado por Maven
 ┃ 📜 README.md
-┗ 📜 pom.xml
+┗ 📜 pom.xml			#Configuración Maven y dependencias
 
 ```
 ---
