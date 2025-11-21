@@ -50,25 +50,25 @@ Para trabajar correctamente con los recursos de este repositorio, asegúrate de 
 
 ### Instrucciones para clonar y ejecutar el proyecto en IDE
 
-1. clonar el repositorio de github
+- clonar el repositorio de github
 ```bash
 git clone https://github.com/matisuarezm/SalmonttApp_S5.git
 ```
-2. Abre el proyecto en tu IDE Favorito, éste fue creado en IntelliJ.
-3. Abre la clase Main del paquete app
-4. Puedes ejecutar el proyecto.
+- Abre el proyecto en tu IDE Favorito, éste fue creado en IntelliJ.
+- Abre la clase Main del paquete app
+- Puedes ejecutar el proyecto.
 
-- Nota: La clase Main ya trae algunos ejemplos que se mostraran por consola.
+	- Nota: La clase Main ya trae algunos ejemplos que se mostraran por consola.
 
 ### Instrucciones para ejecutar el archivo JAR
 
-### 1. clonar el repositorio
+- clonar el repositorio
 ```bash
 git clone https://github.com/matisuarezm/SalmonttApp_S5.git
 ```
-### 2. Ingresa a la caperta clonada.
-### 3. Haz click Derecho dentro de la carpeta y abre una terminal
-### 4. Ejecuta los siguientes comando.
+- Ingresa a la caperta clonada.
+- Haz click Derecho dentro de la carpeta y abre una terminal
+- Ejecuta los siguientes comando.
 ```bash
 # Ingresa a carpeta Target
 cd .\target\
