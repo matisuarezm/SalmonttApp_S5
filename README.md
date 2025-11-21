@@ -33,17 +33,17 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 Para trabajar correctamente con los recursos de este repositorio, asegúrate de tener instalado lo siguiente:
 
 - ☕ **Java JDK 18 o superior**  
-  [Descargar Java](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html)
+  - [Descargar Java](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html)
 
 - 💻 **IDE recomendado: IntelliJ IDEA Comunity Edition**  
   - [Descargar IntelliJ IDEA (Community Edition)](https://www.jetbrains.com/idea/download/)  
 
 - 🧰 **Git instalado para clonar y versionar el repositorio**  
-  [Descargar Git](https://git-scm.com/downloads)
+  - [Descargar Git](https://git-scm.com/downloads)
 
 - 🌐 **Cuenta de GitHub activa** (obligatoria)  
-  [Crear cuenta en GitHub](https://github.com/signup)  
-  > Tu cuenta te servirá para clonar repositorios, subir avances, y entregar evaluaciones a través de GitHub. 
+  - [Crear cuenta en GitHub](https://github.com/signup)  
+   > Tu cuenta te servirá para clonar repositorios, subir avances, y entregar evaluaciones a través de GitHub. 
 
 ---
 # ⚙️ Instruccion de Ejecución
