@@ -1,9 +1,11 @@
-# 📘 Proyecto: 
+# 📘 Proyecto: Gestión de Empleados Salmontt Version 2
 
 ## 📝 Descripción general del sistema
-Este proyecto corresponde a la evaluación sumativa numero 2 del segundo bimestre correspondiente a la asignatura *Desarrollo Orientado a Objetos I*. Se trata de una aplicacion Java orientada a objetos para gestionar empleados de la empresa Salmontt de Puerto Montt. Permite la lectura de un archivo EXCEL de los empleados con todos sus datos personales como Rut validado, direccion (opcional o completa) y salario, aplicando buenas practicas de herencia, composicion, polimorfismo y validacion en Java.
+Este proyecto corresponde a la evaluación sumativa número 2 (Organización modular y creación de una librería personalizada) del segundo bimestre de la asignatura *Desarrollo Orientado a Objetos I*. Consiste en una aplicación Java orientada a objetos para gestionar empleados de la empresa Salmontt de Puerto Montt. El sistema permite la lectura y carga de datos desde un archivo Excel, incluyendo información laboral (fecha de ingreso, cargo, email, salario, etc.) y datos personales (nombre completo, RUT validado, dirección completa u opcional).
 
-El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
+La solución implementa buenas prácticas de diseño orientado a objetos, utilizando herencia, composición, polimorfismo y validación de datos en Java. Además, la estructura modular del proyecto permite separar claramente las responsabilidades de cada componente, facilitando la mantenibilidad y la reutilización del código.
+
+Este desarrollo aborda un caso realista y contextualizado de gestión de personas, enfrentando desafíos típicos en empresas como la importación de información, validaciones personalizadas (por ejemplo, del RUT chileno) y la generación de consultas por criterios. Así, el proyecto evidencia una propuesta estructurada y adaptable a nuevos requerimientos, cumpliendo con estándares de calidad y promoviendo la creación de código limpio, reusable y extensible.
 
 ---
 
