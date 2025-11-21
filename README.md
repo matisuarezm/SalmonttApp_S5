@@ -1,7 +1,7 @@
-# 📘 Proyecto: Gestión de Empleados Salmontt Version 2
+# 📘 Proyecto: Gestión de Empleados Salmontt Versión 2
 
 ## 📝 Descripción general del sistema
-Este proyecto corresponde a la evaluación sumativa número 2 (Organización modular y creación de una librería personalizada) del segundo bimestre de la asignatura *Desarrollo Orientado a Objetos I*. Consiste en una aplicación Java orientada a objetos para gestionar empleados de la empresa Salmontt de Puerto Montt. El sistema permite la lectura y carga de datos desde un archivo Excel, incluyendo información laboral (fecha de ingreso, cargo, email, salario, etc.) y datos personales (nombre completo, RUT validado, dirección completa u opcional).
+Este proyecto es la segunda versión del sistema de gestión de empleados para la empresa Salmontt de Puerto Montt, desarrollado como evaluación sumativa número 2 de la asignatura Desarrollo Orientado a Objetos I. Esta versión incorpora la lectura y procesamiento de datos de empleados desde un archivo Excel utilizando la librería Apache POI, permitiendo gestionar información laboral y personal (nombre, RUT validado, dirección, cargo, salario, etc.) con estructura modular y buenas prácticas de programación en Java (herencia, composición, polimorfismo y validación). El proyecto está construido y gestionado con Maven, facilitando la administración de dependencias y el despliegue del sistema.
 
 La solución implementa buenas prácticas de diseño orientado a objetos, utilizando herencia, composición, polimorfismo y validación de datos en Java. Además, la estructura modular del proyecto permite separar claramente las responsabilidades de cada componente, facilitando la mantenibilidad y la reutilización del código.
 
@@ -16,14 +16,14 @@ Este desarrollo aborda un caso realista y contextualizado de gestión de persona
 ┣ 📂 .idea/
 ┣ 📂 src/main
 ┃ ┣ 📂 java/cl/salmontt
-┃ ┃ ┣ 📂 model/
-┃ ┃ ┣ 📂 services/					
-┃ ┃ ┣ 📂 ui/
-┃ ┃ ┣ 📂 util/				
+┃ ┃ ┣ 📂 model/			#Clases que representan los datos y entidades (Empleado, Rut, Persona, Dirección)
+┃ ┃ ┣ 📂 services/		#Servicios y Lógica general de la gestión de empleados
+┃ ┃ ┣ 📂 ui/			#Punto de entrada, interfaz y Ejecución principal (Main)
+┃ ┃ ┣ 📂 util/			#utilitarios, validaciones y excepciones personalizadas
 ┃ ┣ 📂 resources/
-┃ ┃ ┣ 📊 Empleados.xlsx
+┃ ┃ ┣ 📊 Empleados.xlsx		#Archivo Excel con los datos de empleados
 ┣ 📂 target/
-┃ ┃ ┣ 📦 salmonera-1.0-SNAPSHOT-jar-with-dependencies.jar
+┃ ┃ ┣ 📦 salmonera-1.0-SNAPSHOT-jar-with-dependencies.jar 
 ┃ 📜 README.md
 ┗ 📜 pom.xml
 
