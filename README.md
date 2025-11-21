@@ -46,7 +46,7 @@ Para trabajar correctamente con los recursos de este repositorio, asegúrate de 
   > Tu cuenta te servirá para clonar repositorios, subir avances, y entregar evaluaciones a través de GitHub. 
 
 ---
-#⚙️ Instruccion de Ejecución
+# ⚙️ Instruccion de Ejecución
 
 ##  Instrucciones para clonar y ejecutar el proyecto
 
