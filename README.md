@@ -79,7 +79,7 @@ ls
 # Ejecución del archivo JAR
 java -jar salmonera-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
-< Con eso abras ejecutado el proyecto en la terminal de tu computador.!!! 
+> Con eso abras ejecutado el proyecto en la terminal de tu computador.!!! 
 
 ---
 
