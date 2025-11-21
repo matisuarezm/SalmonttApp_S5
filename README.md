@@ -13,19 +13,19 @@ Este desarrollo aborda un caso realista y contextualizado de gestión de persona
 
 ```
 📦 SalmonttApp_S5/
-�?📂 .idea/
-�?📂 src/main
-�?�?📂 java/cl/salmontt
-�?�?�?📂 model/			#Clases que representan los datos y entidades (Empleado, Rut, Persona, Dirección)
-�?�?�?📂 services/		#Servicios y Lógica general de la gestión de empleados
-�?�?�?📂 ui/			#Punto de entrada, interfaz y Ejecución principal (Main)
-�?�?�?📂 util/			#utilitarios, validaciones y excepciones personalizadas
-�?�?📂 resources/
-�?�?�?📊 Empleados.xlsx		#Archivo Excel con los datos de empleados
-�?📂 target/
-�?�?�?📦 salmonera-1.0-SNAPSHOT-jar-with-dependencies.jar 		#Archivo ejecutable generado por Maven
-�?📜 README.md
-�?📜 pom.xml
+┣ 📂 .idea/
+┣ 📂 src/main
+┃ ┣ 📂 java/cl/salmontt
+┃ ┃ ┣ 📂 model/			#Clases que representan los datos y entidades (Empleado, Rut, Persona, Dirección)
+┃ ┃ ┣ 📂 services/		#Servicios y Lógica general de la gestión de empleados
+┃ ┃ ┣ 📂 ui/			#Punto de entrada, interfaz y Ejecución principal (Main)
+┃ ┃ ┣ 📂 util/			#utilitarios, validaciones y excepciones personalizadas
+┃ ┣ 📂 resources/
+┃ ┃ ┣ 📊 Empleados.xlsx		#Archivo Excel con los datos de empleados
+┣ 📂 target/
+┃ ┃ ┣ 📦 salmonera-1.0-SNAPSHOT-jar-with-dependencies.jar 
+┃ 📜 README.md
+┗ 📜 pom.xml
 
 ```
 ---
@@ -34,7 +34,7 @@ Este desarrollo aborda un caso realista y contextualizado de gestión de persona
 
 Para trabajar correctamente con los recursos de este repositorio, asegúrate de tener instalado lo siguiente:
 
-- �?**Java JDK 18 o superior**  
+- ☕ **Java JDK 18 o superior**  
   - [Descargar Java](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html)
 
 - 💻 **IDE recomendado: IntelliJ IDEA Comunity Edition**  
