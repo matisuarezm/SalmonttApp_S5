@@ -33,7 +33,7 @@ public class Main {
 
         //Filtramos los empleados con sueldo mayor a 15000 y traemos algunos de sus datos con los métodos get
         System.out.println(":::::::::MOSTRAR SUELDOS MAYORES A 15000:::::::::\n");
-        List<Empleado> SueldosMayor = gestor.sueldoMayorA(15000);
+        List<Empleado> SueldosMayor = gestor.sueldoMayorA(1000000);
         for (Empleado empleado : SueldosMayor){
             System.out.println("Nombre: " + empleado.getNombre() + " " + empleado.getApellido());
             System.out.println("Rut:" + empleado.getRut().getTextoRut());
