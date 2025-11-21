@@ -18,7 +18,7 @@ Este desarrollo aborda un caso realista y contextualizado de gestión de persona
 ┃ ┣ 📂 java/cl/salmontt
 ┃ ┃ ┣ 📂 model/			#Clases que representan los datos y entidades (Empleado, Rut, Persona, Dirección)
 ┃ ┃ ┣ 📂 services/		#Servicios y Lógica general de la gestión de empleados
-┃ ┃ ┣ 📂 ui/			#Punto de entrada, interfaz y Ejecución principal (Main)
+┃ ┃ ┣ 📂 ui/			#Punto de entrada, interfaz y Ejecución principal (Main.java)
 ┃ ┃ ┣ 📂 util/			#utilitarios, validaciones y excepciones personalizadas
 ┃ ┣ 📂 resources/
 ┃ ┃ ┣ 📊 Empleados.xlsx		#Archivo Excel con los datos de empleados
@@ -48,7 +48,7 @@ Para trabajar correctamente con los recursos de este repositorio, asegúrate de 
    > Tu cuenta te servirá para clonar repositorios, subir avances, y entregar evaluaciones a través de GitHub. 
 
 ---
-## ⚙️ Instruccion de Ejecución
+## ⚙️ Instrucción de Ejecución
 
 ### Instrucciones para clonar y ejecutar el proyecto en IDE
 
@@ -56,11 +56,11 @@ Para trabajar correctamente con los recursos de este repositorio, asegúrate de 
 ```bash
 git clone https://github.com/matisuarezm/SalmonttApp_S5.git
 ```
-- Abre el proyecto en tu IDE Favorito, éste fue creado en IntelliJ.
-- Abre la clase Main del paquete app
+- Abre el proyecto en IntelliJ IDEA.
+- Abre la clase `Main.java` del paquete `ui`
 - Puedes ejecutar el proyecto.
 
-	> Nota: La clase Main ya trae algunos ejemplos que se mostraran por consola.
+	> Nota: La clase Main.java ya trae algunos ejemplos que se mostraran por consola.
 
 ### Instrucciones para ejecutar el archivo JAR
 
@@ -91,11 +91,11 @@ Salmontt es una empresa salmonera con sede en Puerto Montt, dedicada desde hace 
 
 Esta evaluación corresponde a la continuación directa del proyecto trabajado previamente en la **Evaluación 1**. Deberás reforzar y ampliar el sistema aplicando nuevos conceptos y buenas prácticas aprendidas hasta la semana 5 del curso.
 
-**La evaluacion 1 la encontraran dentro del siguiente Link.**
+**La evaluación 1 la encontraran dentro del siguiente Link.**
 
 - [Proyecto: Gestión de Empleados SALMONTT](https://github.com/matisuarezm/Duoc_Desarrollo_a_Objetos_I)
 
-### Problematica
+### Problemática
 
 En el marco del proceso de digitalización de la empresa, se ha solicitado ampliar el sistema desarrollado previamente. Actualmente, Salmontt no cuenta con una herramienta eficiente para registrar y consultar información del dominio, lo que provoca:
 
