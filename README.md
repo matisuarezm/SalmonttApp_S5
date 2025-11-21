@@ -58,7 +58,7 @@ git clone https://github.com/matisuarezm/SalmonttApp_S5.git
 - Abre la clase Main del paquete app
 - Puedes ejecutar el proyecto.
 
-	- Nota: La clase Main ya trae algunos ejemplos que se mostraran por consola.
+	> Nota: La clase Main ya trae algunos ejemplos que se mostraran por consola.
 
 ### Instrucciones para ejecutar el archivo JAR
 
@@ -79,7 +79,7 @@ ls
 # Ejecución del archivo JAR
 java -jar salmonera-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
-### Con eso abras ejecutado el proyecto en la terminal de tu computador.!!! 
+< Con eso abras ejecutado el proyecto en la terminal de tu computador.!!! 
 
 ---
 
