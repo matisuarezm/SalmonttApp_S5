@@ -48,9 +48,9 @@ Para trabajar correctamente con los recursos de este repositorio, asegúrate de 
 ---
 # ⚙️ Instruccion de Ejecución
 
-##  Instrucciones para clonar y ejecutar el proyecto
+## Instrucciones para clonar y ejecutar el proyecto
 
-### 1. clonar el repositorio
+### 1. clonar el repositorio de github
 ```bash
 git clone https://github.com/matisuarezm/SalmonttApp_S5.git
 ```
@@ -60,7 +60,7 @@ git clone https://github.com/matisuarezm/SalmonttApp_S5.git
 
 - Nota: La clase Main ya trae algunos ejemplos que se mostraran por consola.
 
-## ⚙️ Instrucciones para ejecutar el archivo JAR
+## Instrucciones para ejecutar el archivo JAR
 
 ### 1. clonar el repositorio
 ```bash
@@ -70,8 +70,11 @@ git clone https://github.com/matisuarezm/SalmonttApp_S5.git
 ### 3. Haz click Derecho dentro de la carpeta y abre una terminal
 ### 4. Ejecuta los siguientes comando.
 ```bash
+# Ingresa a carpeta Target
 cd .\target\
+# Lista los archivos de la carpeta
 ls
+# Ejecución del archivo JAR
 java -jar salmonera-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 ### Con eso abras ejecutado el proyecto en la terminal de tu computador.!!! 
